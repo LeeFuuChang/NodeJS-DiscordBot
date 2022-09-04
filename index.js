@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const path = require("node:path");
 const fs = require("node:fs");
 
-const token = "MTAxMTk0NjE3NjUzNjM5NTc3Ng.GJC-5G.NDpgiLre2YRxxulCX4dQXIDgHBmpuecraGiq8I";
+const token = "MTAxMTk0NjE3NjUzNjM5NTc3Ng.GzgXgt.TdMaL_kSJPGVLEKzKmUeemyJwCbJQcp8LNDSnQ";
 
 const client = new Discord.Client();
 client.command = new Discord.Collection();
